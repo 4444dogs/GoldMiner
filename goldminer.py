@@ -8,7 +8,7 @@ def mined():
 
 ##Window Settings
 window = Tk()
-window.title("Super Cool Random App")
+window.title("Gold Miner")
 window.state('zoomed')
 
 ##The 'Mine Gold' Button
